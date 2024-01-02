@@ -1,0 +1,1 @@
+# y bnaya readme vs se ab isko git m dalege
